@@ -1,0 +1,67 @@
+[
+  {
+    "id": 20,
+    "name": "Kiroloes Reda Wassef",
+    "email": "keroReda@Admin.com",
+    "password": "#Qivwgi9k2004#",
+    "phone": "01270857659",
+    "address": "mossasa el zkaa El marg",
+    "role": "superadmin",
+    "lastLogin": "2025-10-03T19:35:37.748Z",
+    "accountCreated": "2025-10-01T17:04:22.138Z",
+    "token": "WUB8UKKINDWDLJDS",
+    "profilePicture": "https://example.com/profile/johndoe.jpg",
+    "dateOfBirth": "2004-02-03",
+    "status": true,
+    "permissions": [
+      "manage_users",
+      "edit_content",
+      "view_reports",
+      "mangment_Admins"
+    ],
+    "avaliable": true,
+    "currentPassword": "ZlFh8IuYx8eW"
+  },
+  {
+    "id": 10,
+    "name": "Tomas Fadl Makram",
+    "email": "TomasFadl@Admin.com",
+    "address": "el mathan El salam",
+    "password": "$2b$10$KIXQJ",
+    "phone": "01551591763",
+    "role": "admin",
+    "lastLogin": "2025-10-03T19:17:27.921Z",
+    "accountCreated": "2022-01-15T10:00:00Z",
+    "token": "WUB8UKKINDWDLJDS",
+    "profilePicture": "https://example.com/profile/johndoe.jpg",
+    "dateOfBirth": "2004-04-5",
+    "status": false,
+    "permissions": [
+      "manage_users",
+      "edit_content",
+      "view_reports"
+    ],
+    "avaliable": true
+  },
+  {
+    "id": 1759521178304,
+    "name": "felopater fares ",
+    "email": "felopaterFares@Admin.com",
+    "password": "#$QWERTYUI2004#$",
+    "phone": "+20 121 292 2696",
+    "address": "الدمرداش",
+    "role": "admin",
+    "dateOfBirth": "2004-08-04",
+    "profilePicture": "",
+    "permissions": [
+      "manage_users",
+      "edit_content",
+      "view_reports"
+    ],
+    "accountCreated": "2025-10-03T19:52:58.316Z",
+    "lastLogin": "2025-10-03T19:57:59.539Z",
+    "status": true,
+    "avaliable": true,
+    "token": "GW9B1MC136"
+  }
+]

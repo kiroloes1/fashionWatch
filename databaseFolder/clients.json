@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1759345917191,
+    "name": "aly tamer",
+    "email": "kiroloesreda@gmail.com",
+    "phone": "01284748782",
+    "password": "1",
+    "address": "nacer",
+    "cartProduct": [],
+    "invoices": [
+      {
+        "id": 2,
+        "products": [],
+        "clientId": 1759345917191,
+        "invoiceDate": "2023-10-01T15:00:00Z",
+        "status": "unpaid",
+        "discount": 0,
+        "totalAmount": 0,
+        "paymentMethod": "cash",
+        "billingAddress": "125 Main St, Anytown, USA",
+        "shippingAddress": "125 Main St, Anytown, USA",
+        "notes": "Thank you for your business!",
+        "track": {
+          "pending": true,
+          "shipped": true,
+          "outForDelivery": true,
+          "Delivered": true
+        }
+      }
+    ],
+    "purchaseHistory": [
+      {
+        "id": 1,
+        "products": [],
+        "clientId": 1,
+        "invoiceDate": "2023-10-01T15:00:00Z",
+        "status": "unpaid",
+        "discount": 0,
+        "totalAmount": 0,
+        "paymentMethod": "credit_card",
+        "billingAddress": "123 Main St, Anytown, USA",
+        "shippingAddress": "123 Main St, Anytown, USA",
+        "notes": "Thank you for your business!",
+        "track": {
+          "pending": true,
+          "shipped": false,
+          "outForDelivery": false,
+          "Delivered": false
+        }
+      }
+    ],
+    "wishlist": [
+      {
+        "productId": 4,
+        "productTitle": "Watch 5",
+        "productDescription": "A stylish watch with leather strap.",
+        "productPrice": 280,
+        "productPurchPrice": 100,
+        "productDiscount": 15,
+        "productQuantity": 50,
+        "productAvailability": "In Stock",
+        "productCategory": "Watches",
+        "productTags": [
+          "fashion",
+          "accessory",
+          "timepiece"
+        ],
+        "productSKU": "WAT-001",
+        "productImage": [
+          "https://ibb.co/N208SQqm"
+        ],
+        "productColorOptions": [
+          "black",
+          "brown",
+          "silver"
+        ],
+        "productMaterial": "leather",
+        "createdAt": "2025-10-01T17:34:11.331Z",
+        "updatedAt": "2025-10-02T11:34:23.621Z",
+        "comments": [
+          {
+            "title": "ok man",
+            "clientId": 1,
+            "description": "lorerflvmdf knsfn"
+          }
+        ]
+      }
+    ],
+    "comments": [
+      {
+        "title": "ok man",
+        "clientId": 1,
+        "description": "lorerflvmdf knsfn"
+      }
+    ],
+    "loyaltyPoints": 0,
+    "membershipLevel": "normal",
+    "accountCreated": "2025-10-01T19:11:57.205Z",
+    "lastLogin": "2025-10-03T00:37:53.586Z",
+    "token": "38Q46E8UYSI",
+    "profilePicture": "",
+    "dateOfBirth": "2025-11-05"
+  },
+  {
+    "id": 1759413431285,
+    "name": "mary sameh",
+    "email": "452852@eng.asu.edu.eg",
+    "phone": "01284758693",
+    "password": "123123123",
+    "address": "el minya",
+    "cartProduct": [],
+    "purchaseHistory": [],
+    "invoices": [],
+    "wishlist": [],
+    "comments": [],
+    "loyaltyPoints": 0,
+    "membershipLevel": "normal",
+    "accountCreated": "2025-10-02T13:57:11.286Z",
+    "lastLogin": "2025-10-02T21:15:50.043Z",
+    "token": "B3H3RY5MXZR",
+    "profilePicture": "",
+    "dateOfBirth": "2005-02-08"
+  }
+]

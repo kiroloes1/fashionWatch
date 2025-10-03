@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "products": [
+      {
+        "productId": 4,
+        "productTitle": "Watch 5",
+        "productDescription": "A stylish watch with leather strap.",
+        "productPrice": 280,
+        "productPurchPrice": 100,
+        "productDiscount": 15,
+        "productQuantity": 1,
+        "productAvailability": "In Stock",
+        "productCategory": "Watches",
+        "productTags": [
+          "fashion",
+          "accessory",
+          "timepiece"
+        ],
+        "productSKU": "WAT-001",
+        "productImage": [
+          "https://ibb.co/N208SQqm"
+        ],
+        "productColorOptions": [
+          "black",
+          "brown",
+          "silver"
+        ],
+        "productMaterial": "leather",
+        "createdAt": "2025-10-01T17:34:11.331Z",
+        "updatedAt": "2025-10-02T11:34:23.621Z",
+        "comments": [
+          {
+            "title": "ok man",
+            "clientId": 1,
+            "description": "lorerflvmdf knsfn"
+          }
+        ]
+      }
+    ],
+    "clientId": 1,
+    "invoiceDate": "2023-10-01T15:00:00Z",
+    "status": "unpaid",
+    "discount": 0,
+    "totalAmount": 280,
+    "paymentMethod": "credit_card",
+    "billingAddress": "123 Main St, Anytown, USA",
+    "shippingAddress": "123 Main St, Anytown, USA",
+    "notes": "Thank you for your business!",
+    "track": {
+      "pending": true,
+      "shipped": true,
+      "outForDelivery": true,
+      "Delivered": true
+    }
+  }
+]
