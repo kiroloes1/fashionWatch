@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "handleReqAndRes.js",
   "scripts": {
-    "start": "node handleReqAndRes.js",
+    "start": "node backendFolder/handleReqAndRes.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
