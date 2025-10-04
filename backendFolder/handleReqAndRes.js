@@ -579,7 +579,10 @@ else if (path === '/sales') {
     res.end(JSON.stringify({ message: "not found" }));
   }
 });
+const PORT = process.env.PORT || 5000;
 
-server.listen(5000, () => {
-  console.log("listening to requests on port 5000");
+server.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
 });
+
+
